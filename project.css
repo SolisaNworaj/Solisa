@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    background-image: url(123.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.samptext{
+    color: white;    
+    margin-bottom: 0px;
+    top: 2rem;
+    font-size: 28px;   
+}
+
+.textholder{
+position: relative;
+top: 5rem;
+display: inline-block;
+text-align: justify ;
+width: 60%;
+padding: 25px;
+}
+
+.giveaway{
+    color: white;
+    margin-left:24px ;
+    font-size: 20px;
+}
+
+.oldip{
+    font-size: 50px;
+    font-weight: 700;
+    position: relative;
+    margin-top: 5rem;
+    color: white;
+    margin-left: 24px;
+    font-size: 40px;
+    position: relative;
+    top: 2rem;
+}
+
+
+.learnmore{
+    background-color: #071424;
+    height: 3rem;
+    width: 9rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    color: white;
+    border: 1px solid white;
+    margin-left: 48px;
+    margin-top: 40px;
+}
+
+.learnmore:hover{
+    background-color: #010511;
+
+}
+
+.countdownholder{
+    display: flex;
+    margin-bottom:0px ;
+}
+
+.countdownholder div{
+    flex-basis: 100px;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+
+.countdownholder div p{
+    font-size: 5rem;
+    margin-bottom: -14px;
+    color: rgba(92, 155, 218, 0.365);;
+    margin-bottom: 5px;
+   font-weight: 900;
+}
+.label{
+    color: #797a80b0;
+    font-size: 20pt;
+    font-weight: 100;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
